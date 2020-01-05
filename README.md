@@ -25,7 +25,7 @@ _**Acquisition**_
 - Acquire from fitbit data .CSV files representing 255 days of data covering April - December 2018
 
 _**Preperation**_
-- Handle column names, remove comma seperators in numbers, change data types from objects to integers, convert date columns to date data types, and avoid overcomplications
+- Handle column names, remove comma seperators in numbers, change data types from objects to integers, convert date columns to date data type, and avoid overcomplications
 
 _**Exploration**_
 - Vizualize distributions for early discoveries
